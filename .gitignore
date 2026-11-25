@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+out/
+competition.json
+requirements.json
+kit.json
